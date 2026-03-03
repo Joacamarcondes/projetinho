@@ -21,4 +21,3 @@ p1.trabalhar()
 p1.gastar()
 print(f'Dinheiro[{p1.nome}]:', p1.dinheiro)
 
-print()
